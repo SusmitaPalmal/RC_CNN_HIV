@@ -409,6 +409,6 @@ avg_auc=round(avg_auc,3)
 avg_prauc=avg_prauc/10
 avg_prauc=round(avg_prauc,3)
 
-print("SVM avg_auc,avg_prauc, Average acc, avgMcc , avg precision , AVG_SENSITIVITY, AVG_SPECIFICITY, avgBalAcc, avg f1 score ")
+print("avg_auc,avg_prauc, Average acc, avgMcc , avg precision , AVG_SENSITIVITY, AVG_SPECIFICITY, avgBalAcc, avg f1 score ")
 print(avg_auc,",",avg_prauc,",",avg_acc,",",avgMcc,",",AVG_PRECISION,",",AVG_SENSITIVITY,",",AVG_SPECIFICITY,",",avgBalAcc,",", avg_f1)
 
