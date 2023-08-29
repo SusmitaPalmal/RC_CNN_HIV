@@ -1,4 +1,5 @@
 # RC_CNN_HIV
 Integrating Multi-View Feature Extraction and Fuzzy Rank-Based Ensemble for Accurate HIV-1 Protease Cleavage Site Prediction
 
-First, apply RC.py for feature extraction on 764, 1625, schllingData, and impensData. Then the extracted data will be used in a Fuzzy Rank-Based Ensemble using CNN (RC_CNN_HIV.py) for final prediction.
+To begin, utilize the RC.py script to perform feature extraction on the datasets 764Data, 1625Data, schillingData, and impensData. Subsequently, employ the extracted data as input for a Fuzzy Rank-Based Ensemble, employing the CNN architecture, as outlined in the RC_CNN_HIV.py script, to make the ultimate predictions.
+
